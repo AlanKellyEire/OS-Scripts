@@ -1,5 +1,4 @@
-# OS-Scripts
-Operating System scripts
+### Operating System scripts
 
 #All Scripts created my Alan Kelly for the following modules 
   SOFT6003 Operating Systems Fundamentals
